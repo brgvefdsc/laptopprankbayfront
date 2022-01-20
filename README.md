@@ -1,4 +1,4 @@
 # laptopprankbayfront
 
-Set Start up to
-Move never.mp4 to /Movies
+Set Start up to file:///Users/bayfrontstudent/Movies/index.html
+Move all to /Movies
